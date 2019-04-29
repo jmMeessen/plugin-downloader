@@ -8,6 +8,8 @@ Change directory to this directory.
 
 Source the setup_env.sh script: `. ./setup_env.sh`
 
+Then execute the `plugins.sh` script. The downloaded plugins will be available in the `./plugins/` directory.
+
 ### Download a plugin
 
 `./plugins.sh mailer` to download the mailer plugin and its dependencies
